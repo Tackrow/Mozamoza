@@ -4,7 +4,7 @@ Mozamozaは、画面共有や収録で見せたくない情報を、複数のマ
 
 ## ダウンロード
 
-公開版は現在準備中です。初回リリース後は、このリポジトリの[Releases](https://github.com/Tackrow/Mozamoza/releases/latest)からApple公証済みのDMGをダウンロードできます。
+最新版は[こちらからダウンロード](https://github.com/Tackrow/Mozamoza/releases/latest/download/Mozamoza-latest.dmg)できます。Apple公証済みのDMGを開き、Mozamozaを「アプリケーション」フォルダへ移動してください。過去のバージョンと更新内容は[Releases](https://github.com/Tackrow/Mozamoza/releases)で確認できます。
 
 ## 動作環境
 
@@ -26,4 +26,4 @@ Mozamozaは、画面共有や収録で見せたくない情報を、複数のマ
 
 ## 不具合報告・要望
 
-公開後は[GitHub Issues](https://github.com/Tackrow/Mozamoza/issues)で受け付けます。
+[GitHub Issues](https://github.com/Tackrow/Mozamoza/issues)で受け付けます。
